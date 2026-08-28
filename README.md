@@ -6,7 +6,7 @@
 
 _Plugin Developer_
 
-Hello! I'm nyavilov and I'm Plugin Developer for Paper API. I has been working on Minecraft Private Server since 2022.
+Hello! I'm nyavilov and I'm Plugin Developer for Paper API. I has been working on Minecraft Private Servers since 2022.
 
 I'm new to the Java and Paper, but I try to be better!
 
