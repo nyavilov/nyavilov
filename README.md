@@ -12,6 +12,10 @@ I'm new to the Java and Paper, but I try to be better!
 
 <br><br><br><br><br><br><br><br>
 
+###
+
+<img align="right" height="250" src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
+
 ## Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
@@ -20,16 +24,8 @@ I'm new to the Java and Paper, but I try to be better!
 
 ## Find me elsewhere
 
-| | |
-| --- | --- |
-| **Telegram** | 
 <div align="left">
   <a href="https://t.me/nyavilov" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-| **Discord** | `nyavilov` |
-
-###
-
-<img src="http://raw.githubusercontent.com/gdeVanezus/gdeVanezus/refs/heads/output/github-snake-dark.svg" alt="Snake animation" />
