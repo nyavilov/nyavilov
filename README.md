@@ -10,11 +10,9 @@ Hello! I'm nyavilov and I'm Plugin Developer for Paper API. I has been working o
 
 I'm new to the Java and Paper, but I try to be better!
 
+<img src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
+
 <br><br><br><br><br><br><br><br>
-
-###
-
-<img align="right" height="500" src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
 
 ## Tech Stack
 
