@@ -14,7 +14,7 @@ I'm new to the Java and Paper, but I try to be better!
 
 ###
 
-<img align="right" height="0" src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
+<img align="right" height="500" src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
 
 ## Tech Stack
 
