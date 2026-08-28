@@ -12,8 +12,6 @@ I'm new to the Java and Paper, but I try to be better!
 
 <img src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
 
-<br><br><br><br><br><br><br><br>
-
 ## Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
