@@ -8,20 +8,10 @@
     🎮 Music • Games • Anime • Code
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F5a2599f97e9ed2b5600f4822a0f540cc%2Ftenor.gif%3Fitemid%3D19004957&f=1&nofb=1&ipt=aa73c3ca5c8dbf7aad43afbfa9c7e4a6b7e5084fdf06142c34e33d2a70d699b1" height="40" />
 <br><br>
     
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
 [![Paper](https://img.shields.io/badge/Paper-444444?style=flat)](https://papermc.io)
 [![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat)](https://www.spigotmc.org)
 </div>
-
-###
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyavilov/nyavilov/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyavilov/nyavilov/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nyavilov/nyavilov/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
