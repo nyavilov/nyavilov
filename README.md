@@ -1,27 +1,27 @@
-<!-- Layout inspired by https://github.com/erikw -->
-
-[![Typing intro](https://readme-typing-svg.herokuapp.com/?multiline=true&size=12&width=650&color=FE3A83&lines=System.out.println(%22Hi%2C+I%27m+nyavilov%22)%3B)](#)
-
-# Hello, I'm nyavilov
-
-_Plugin Developer_
-
-Hello! I'm nyavilov and I'm Plugin Developer for Paper API. I has been working on Minecraft Private Servers since 2022.
-
-I'm new to the Java and Paper, but I try to be better!
-
-<img src="https://media.tenor.com/UQU14FLCsaEAAAAC/pixel-pixel-art.gif"    />
-
-## Tech Stack
-
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello;I'm+nyavilov%2C+a+plugin+developer+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Plugin Developer
+    💻 System programming languages • Java 
+    🎮 Music • Games • Anime • Code
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+    
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
 [![Paper](https://img.shields.io/badge/Paper-444444?style=flat)](https://papermc.io)
 [![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=flat)](https://www.spigotmc.org)
-
-## Find me elsewhere
-
-<div align="left">
-  <a href="https://t.me/nyavilov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
 </div>
+
+###
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyavilov/nyavilov/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyavilov/nyavilov/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nyavilov/nyavilov/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
