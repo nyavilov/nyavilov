@@ -10,10 +10,44 @@
 <img src="https://cdn3.emoji.gg/emojis/197473-hello-kitty.gif" height="40" />
 <br><br>
     
-<img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-<img width="12" />
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="60" alt="gradle logo"  />
+</div>
+
+###
+
 </div>
