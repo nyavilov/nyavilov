@@ -5,9 +5,6 @@
     💻 System programming languages • Java 
     🎮 Music • Games • Anime • Code
 </pre>
-<br>
-<img src="https://cdn3.emoji.gg/emojis/197473-hello-kitty.gif" height="40" />
-<br><br>
     
 ###
 
