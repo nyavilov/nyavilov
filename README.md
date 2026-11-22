@@ -7,8 +7,7 @@
   ✨ Love doing some stuff
   👀 Meow-meow
 </pre>
-</div> 
-###
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
