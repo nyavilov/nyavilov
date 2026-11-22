@@ -3,15 +3,11 @@
 <br><br>
 <div align="center">
 <pre>
----
-
 ### About me
 
-💻 Java Developer
-✨ Love doing some stuff
-👀 Meow-meow
-
----
+  💻 Java Developer
+  ✨ Love doing some stuff
+  👀 Meow-meow
 </pre>
 </div> 
 ###
