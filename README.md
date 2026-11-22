@@ -6,9 +6,9 @@
 
 ### About me
 
-- 💻 Java Developer
-- ✨ Love doing some stuff
-- 👀 Meow-meow
+💻 Java Developer
+✨ Love doing some stuff
+👀 Meow-meow
 
 ---
     
